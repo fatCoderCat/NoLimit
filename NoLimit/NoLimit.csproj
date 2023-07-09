@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>nolimits</PackageId>
+        <Authors>Dima Kolomiiets</Authors>
+        <PackageVersion>0.0.1-prerelease</PackageVersion>
+        <Title>NoLimits</Title>
+        <Description>NoLimits simplifies reflection usage in .NET</Description>
+    </PropertyGroup>
+
+</Project>

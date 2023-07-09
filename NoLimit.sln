@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoLimit", "NoLimit\NoLimit.csproj", "{08C6D780-81BF-4C9B-A610-599E26717940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{042D4A40-EA51-4075-8AD0-E22ED35158D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCollection", "TestCollection\TestCollection.csproj", "{A9D127B4-1880-486F-A4E8-60B35F24C7C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{5E836080-9F7E-4586-A9AD-ADD1729DD81C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C6D780-81BF-4C9B-A610-599E26717940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C6D780-81BF-4C9B-A610-599E26717940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C6D780-81BF-4C9B-A610-599E26717940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C6D780-81BF-4C9B-A610-599E26717940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042D4A40-EA51-4075-8AD0-E22ED35158D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042D4A40-EA51-4075-8AD0-E22ED35158D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042D4A40-EA51-4075-8AD0-E22ED35158D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042D4A40-EA51-4075-8AD0-E22ED35158D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D127B4-1880-486F-A4E8-60B35F24C7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D127B4-1880-486F-A4E8-60B35F24C7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D127B4-1880-486F-A4E8-60B35F24C7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D127B4-1880-486F-A4E8-60B35F24C7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
